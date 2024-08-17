@@ -8,7 +8,7 @@ I'm a computer science student studying at Northeastern University. I love all t
 - Technologies: Vue.js, React.js, CakePHP, Nest.js
 
 ## Contact Me
-- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/russell-leung)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/russell-leung )
 - Email: [russell-leung@comcast.net](mailto:youremail@example.com)
 - Website: [https://russell-leung.com](https://russell-leung.com)
 
