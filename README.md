@@ -13,7 +13,7 @@ I'm a computer science student studying at Northeastern University. I love all t
 - Website: [https://russell-leung.com](https://russell-leung.com)
 
 ## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=russell-leung&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=russell-leung&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russell-leung&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russell-leung&layout=compact)
